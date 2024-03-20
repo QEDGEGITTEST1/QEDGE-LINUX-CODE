@@ -1,0 +1,1 @@
+Depending on the version of grep you are using, you can omit pwd. In newer versions . seems to be the default case for grep if no directory is given.
